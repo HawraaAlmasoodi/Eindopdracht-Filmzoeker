@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: powderblue;
+
+}
+
+nav {
+    display: flex;
+   justify-content: center;
+
+}
+
+input {
+    margin-left: 40px;
+
+}
+
+label {
+    color: powderblue;
+    padding-right: 97px;
+   
+}
+
+ul {
+    margin-left: 23px;
+
+}
+
+li {
+    display: inline;
+   
+}
+    
+img {
+    transform: scale(0.9);
+    width: 230px;
+    
+}
+
