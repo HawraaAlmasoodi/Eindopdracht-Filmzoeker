@@ -17,7 +17,7 @@ let addAnchorToListItemMovie = film => {
     return anchor;
 
 };
-// add movies to DOM (creating li and adding it to ul and adding a and img to li)
+// add movies to DOM ((creating li and adding it to ul and adding a and img to li))
 let addMoviesToDom = films => {
     let availableFilmsUl = document.getElementById("availableFilms");
     let movieLiElements = films.map(movie => {
